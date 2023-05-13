@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6b726390-e181-4b38-9cbf-b85f4758809f"
+      }
+    },
+    "owner": "nikhilalphones"
   }
 }

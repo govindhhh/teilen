@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-teilen-staging-120134-authRole",
+      "UnauthRoleArn": "arn:aws:iam::616905558258:role/amplify-teilen-staging-120134-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::616905558258:role/amplify-teilen-staging-120134-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-teilen-staging-120134-deployment",
+      "UnauthRoleName": "amplify-teilen-staging-120134-unauthRole",
+      "StackName": "amplify-teilen-staging-120134",
+      "StackId": "arn:aws:cloudformation:ap-south-1:616905558258:stack/amplify-teilen-staging-120134/968104b0-e685-11ed-8041-0a271c000b56",
+      "AmplifyAppId": "d16xkw4w4oi6ar"
+    },
+    "categories": {
+      "auth": {
+        "Teilen": {}
+      }
+    }
+  }
+}
